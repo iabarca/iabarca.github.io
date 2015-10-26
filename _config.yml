@@ -1,0 +1,26 @@
+# Dependencies
+markdown:            redcarpet
+highlighter:         pygments
+
+# Permalinks
+permalink:           pretty
+relative_permalinks: true
+
+# Setup
+title:               'Untitled'
+tagline:             'Tagless'
+description:         'Nondescript'
+url:                 http://iabarca.github.io
+baseurl:             '/'
+paginate:            5
+
+# About/contact
+author:
+  name:              Ivan Abarca
+  url:               http://abarca.me
+
+# GitHub repository
+github:
+  repo:              https://github.com/iabarca/iabarca.github.io
+
+analytics_id:        UA-41559116-5
