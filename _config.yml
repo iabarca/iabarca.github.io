@@ -7,9 +7,9 @@ permalink:           pretty
 relative_permalinks: true
 
 # Setup
-title:               'iab'
+title:               '👾'
 tagline:             'Projects'
-description:         'Floating Sandbox'
+description:         '🕵🏼'
 url:                 http://iabarca.github.io
 baseurl:             '/'
 paginate:            5
